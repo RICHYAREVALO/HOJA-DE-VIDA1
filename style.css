@@ -1,0 +1,16 @@
+h1,h2{ 
+    text-align: center;
+    color: rgb(65, 65, 151);
+
+   }
+   ol{
+    padding: 60px;
+   }
+   p{text-align: center; color: rgb(19, 19, 95); }
+   div{
+    text-align: center;
+   }
+   
+body{
+    background-color: rgb(139, 194, 201);
+}
